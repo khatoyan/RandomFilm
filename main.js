@@ -2,7 +2,8 @@
 
 
 
-window.addEventListener("load", () => {
+window.addEventListener("load", () => 
+{
 
      let filmBlock = document.createElement('div')
      filmBlock.classList.add("filmBlock");
